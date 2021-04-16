@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0"
+  },
+  "name": "crafty-discord",
+  "version": "1.0.0",
+  "description": "Discord client for Crafty",
+  "main": "main.js",
+  "devDependencies": {
+    "eslint": "^7.24.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
